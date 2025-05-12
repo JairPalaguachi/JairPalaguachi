@@ -1,6 +1,6 @@
 # Mi repositorio personal
 
-Soy Jair Palaguachi, un apasionado estudiante de ingeniería en computación. Este espacio está dedicado a compartir mis proyectos, intereses y habilidades. ¡Gracias por visitar!
+Soy Jair Palaguachi, un apasionado estudiante de ingeniería en computación. Este espacio está dedicado a compartir mis proyectos, intereses y habilidades. ¡Gracias por visitar.!
 
 ---
 
