@@ -54,7 +54,7 @@ Aquí hay una lista de algunos de mis proyectos más interesantes:
 
    ![Vista del proyecto](imagenes/Poo.PNG)
 
-   _Se desarrolló un proyecto que consitió en la implementación de un programa que simula la compra y venta de tickets para distintos eventos en vivo. Para este proyecto se hizo uso de distintos patrones de diseño para mejorar la escabilidad del programa y a lo largo del mismo se empleó distintas técnicas de refactorización para mejorar la legibilidad del código  ._  
+   _Se desarrolló un proyecto que consitió en la implementación de un programa que simula una aplicación que permite al usuario llevar el control de sus finannzas personales al agregar los ingresos y egresos que tiene en un tiempo especificado, y realizar una proyección de sus gastos a futuro.  ._  
 
    **Tecnologías usadas:** Java 
    
